@@ -1,4 +1,5 @@
 Name: _dmarc
+Type: A Record 
 
 Value: v=DMARC1; p=quarantine; rua=mailto:info@domain.com; ruf=mailto:info@domain.com; fo=1
 Example: v=DMARC1; p=quarantine; rua=mailto:info@khadisikhar.com; ruf=mailto:info@khadisikhar.com; fo=1
