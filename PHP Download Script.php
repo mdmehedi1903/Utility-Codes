@@ -27,4 +27,4 @@ if ($ch && $fp) {
     echo " Could not open remote or local file.";
 }
 
-// Example Download URL: https://sitename.com/wp-content/ai1wm-backups/download.php
+// Example Download URL: https://sitename.com/download.php
