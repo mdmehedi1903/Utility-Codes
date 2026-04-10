@@ -3,7 +3,7 @@
 $url = "https://novela.xyz/wp-content/ai1wm-backups/novela-xyz-20250704-092853-n9v7rsloyync.wpress";
 
 // Local path where file will be saved
-$saveTo = __DIR__ . "/backup-novela.wpress";
+$saveTo = __DIR__ . "/backup-download.wpress";
 
 // Start download
 $ch = curl_init($url);
@@ -27,4 +27,3 @@ if ($ch && $fp) {
     echo " Could not open remote or local file.";
 }
 
-// Example Download URL: https://sitename.com/download.php
