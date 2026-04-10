@@ -1,12 +1,4 @@
 <?php
-// This is code developed by Mehedi
-// This is code developed by Mehedi
-// This is code developed by Mehedi
-// This is code developed by Mehedi
-// This is code developed by Mehedi
-// This is code developed by Mehedi
-// This is code developed by Mehedi
-// This is code developed by Mehedi
 
 // Target URL of the .wpress file
 $url = "https://novela.xyz/wp-content/ai1wm-backups/novela-xyz-20250704-092853-n9v7rsloyync.wpress";
