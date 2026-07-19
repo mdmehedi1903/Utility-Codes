@@ -588,7 +588,7 @@ function cmfi_settings_page() {
                                 <input type="range" name="cmfi_padding_v" id="cmfi_padding_v"
                                     min="0" max="80" value="<?php echo esc_attr($pad_v); ?>"
                                     oninput="document.getElementById('pv_val').textContent=this.value+'px';updatePreview()">
-                                <span class="cmfi-range-val" id="pva_val"><?php echo esc_html($pad_v); ?>px</span>
+                                <span class="cmfi-range-val" id="pv_val"><?php echo esc_html($pad_v); ?>px</span>
                             </div>
                         </td>
                     </tr>
